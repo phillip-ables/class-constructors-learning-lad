@@ -25,4 +25,9 @@ these constructors can also take parameters
 Between curly braces
   write statements that we are going to execute in this constructors
 
-  
+Create an object of this student class
+Class name and the reference variable
+equals new keyword
+then the class name and a pair of parenthesis
+
+THAT IS THE CALL TO THE CONSTRUCTOR 
