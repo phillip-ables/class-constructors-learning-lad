@@ -44,3 +44,9 @@ See line 28
   Class name and the reference variable
   equals new keyword
   then the class name and a pair of parenthesis -->
+
+the class
+with the class properties
+then the class methods
+
+by using these constructors we can initialize class properties while creating the objects
