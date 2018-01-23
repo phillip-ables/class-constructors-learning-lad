@@ -20,6 +20,18 @@ public class Parents {
         mom = "Joann"; 
     }
     
+    //first ever if statement
+    //first ever to caps statement
+    //if call > x name in all caps
+    public Parents(String iMum, int iNum){
+        System.out.println("Constructor with 2 parameters called");
+        mom = iMum;
+        missedCalls = iNum;
+        if (missedCalls > 3){
+            mom = mom.toUpperCase();
+        }
+    }
+    
     public void momsCalling(){
         System.out.println("Your Mother " + mom + " has called " + missedCalls + " times");
     }

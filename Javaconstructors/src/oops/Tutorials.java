@@ -10,7 +10,7 @@ public class Tutorials {
 //        Student phillip = new Student("Phillip",66);        
 //        phillip.introduce();
         
-        Parents mom = new Parents(5);
+        Parents mom = new Parents("joan",5);
         mom.momsCalling();
         
     }
