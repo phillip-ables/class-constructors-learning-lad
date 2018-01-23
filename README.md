@@ -70,6 +70,9 @@ we can overload the constructor
     either by the number of parameter that they take
     or by the type of parameters they take
     or by both
+
+so you have to set the name or its null
+
 <!-- Method Overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists. -->
 
 Constructor same name as the one before
