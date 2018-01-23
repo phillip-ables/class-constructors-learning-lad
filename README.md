@@ -60,3 +60,18 @@ constructor name should be the same as the class
 now we can call those methods through the objects we constructed from out classes
 
 user of constructor can initialize properties of objects while creating them
+we have initialized the name and the age with that object
+these constructors are used to initialize our properties
+
+jsut like we can overload the methods
+we can overload the constructor
+  we can have constructors with the same name
+  should differ in there signatures
+    either by the number of parameter that they take
+    or by the type of parameters they take
+    or by both
+<!-- Method Overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists. -->
+
+Constructor same name as the one before
+but the signature is going to be
+the constructor takes a string parameter
