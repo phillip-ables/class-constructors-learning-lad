@@ -28,7 +28,7 @@ public class Student {
         name = "noname";
     }
     
-    public Student(Sting iname, int iage){
+    public Student(String iname, int iage){
         System.out.println("Constructor with String and integer paramaeter called");
         age = iage;
         name = iname;
