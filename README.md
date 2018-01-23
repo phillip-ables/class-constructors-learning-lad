@@ -30,4 +30,9 @@ Class name and the reference variable
 equals new keyword
 then the class name and a pair of parenthesis
 
-THAT IS THE CALL TO THE CONSTRUCTOR 
+THAT IS THE CALL TO THE CONSTRUCTOR
+
+
+new keyword creates the object by calling the constructor of that class
+returns that reference
+that reference is stored in our variable
