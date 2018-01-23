@@ -56,3 +56,5 @@ the method is going to have the return type
   any type of data returned by it
 method name can be any we choose to give
 constructor name should be the same as the class
+
+now we can call those methods through the objects we constructed from out classes
