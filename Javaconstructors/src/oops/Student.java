@@ -16,6 +16,17 @@ public class Student {
         age = 1;
     }
     
+    public Student(String iname){
+        System.out.println("Constructor with one String parameter called");
+        name = iname;
+        age = 1;
+    }
+    
+    public Student(int iage){
+        System.out.println("Constructor with one integer parameter called");
+        age = iage;
+    }
+    
     //class methods
     public void introduce(){
         System.out.println("name is " + name + " and age is " + age);
