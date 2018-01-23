@@ -12,6 +12,8 @@ public class Student {
     //access specifier
     public Student(){
         System.out.println("Constructor with no parameters called");
+        name = "no name";
+        age = 2;
     }
     
     //class methods

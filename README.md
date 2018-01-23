@@ -58,3 +58,5 @@ method name can be any we choose to give
 constructor name should be the same as the class
 
 now we can call those methods through the objects we constructed from out classes
+
+user of constructor can initialize properties of objects while creating them
