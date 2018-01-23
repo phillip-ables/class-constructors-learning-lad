@@ -50,3 +50,9 @@ with the class properties
 then the class methods
 
 by using these constructors we can initialize class properties while creating the objects
+
+now we can see the difference in a method and a constructor
+the method is going to have the return type
+  any type of data returned by it
+method name can be any we choose to give
+constructor name should be the same as the class
